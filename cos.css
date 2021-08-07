@@ -25,7 +25,7 @@ body
 {
     background: linear-gradient(-119deg, #ee7752, #9966ff, #23a6d5, #23d5ab);
     height: 1000px;
-    animation: gradient 15s Fast Out infinite;
+  animation: gradient 15s cubic-bezier(0.4, 0, 1, 1) infinite;
 }
 
 #o1
