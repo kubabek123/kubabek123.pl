@@ -1,0 +1,38 @@
+
+#h1
+{
+    text-align: center;
+    color: black;
+}
+
+#h2
+{
+    text-align: center;
+}
+
+#dc
+{
+    text-align: center;
+}
+
+#owner
+{
+    text-align: center;
+    color: blue;
+}
+
+body
+{
+    background: linear-gradient(-119deg, #ee7752, #9966ff, #23a6d5, #23d5ab);
+    height: 1000px;
+}
+
+#o1
+{
+    text-align: center;
+}
+
+#o2
+{
+    text-align: center;
+}
