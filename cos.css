@@ -1,4 +1,3 @@
-
 #h1
 {
     text-align: center;
@@ -18,14 +17,13 @@
 #owner
 {
     text-align: center;
-    color: blue;
 }
 
 body
 {
-  height: 1000px;
-  background: linear-gradient(-45deg, #ee7752, #9966ff, #23a6d5, #23d5ab);
-  animation: gradient 15s ease infinite;
+    font-family: 'Lato', sans-serif;
+    background: linear-gradient(-119deg, #ee7752, #9966ff, #23a6d5, #23d5ab);
+    height: 1080px;
 }
 
 #o1
@@ -37,3 +35,21 @@ body
 {
     text-align: center;
 }
+
+#h3
+{
+    text-align: center;
+    color: red;
+}
+
+.linkautor { 
+    color: #000;
+    display: inline-block;
+    padding: 5px;
+    border-bottom: 0.4px solid #000;
+    text-decoration: none;
+    position: relative;
+    }
+.linkautor:hover {
+    top: 4px;
+    }
