@@ -7,4 +7,4 @@ Deny from all
 RewriteEngine on
 
 RewriteRule ikea ikea.html
-RewriteRule ihome index.html
+RewriteRule home index.html
