@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule Home index.html
+RewriteRule Profil profil.html
+
+ErrosDocument 404 /errordos/404.html
