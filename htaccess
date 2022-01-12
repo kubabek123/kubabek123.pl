@@ -1,6 +1,0 @@
-RewriteEngine on
-RewriteRule Home index.html
-RewriteRule Profil profil.html
-RewriteRule cookies cookies.html
-
-ErrosDocument 404 /errordos/404.html
