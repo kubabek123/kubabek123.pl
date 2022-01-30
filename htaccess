@@ -1,6 +1,6 @@
 RewriteEngine on
 RewriteRule Home index.html
 RewriteRule cookies cookies.html
-RewriteRule t2w t2w.html
+RewriteRule ZIUM g.html
 
 ErrosDocument 404 /errordos/404.html
